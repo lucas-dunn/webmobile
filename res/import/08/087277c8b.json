@@ -1,0 +1,1 @@
+[{"__type__":"cc.AnimationClip","_name":"setting_hide","_duration":0.25,"curveData":{"props":{"x":[{"frame":0,"value":-213},{"frame":0.25,"value":0}]}}},{"__type__":"cc.AnimationClip","_name":"setting_show","_duration":0.25,"curveData":{"props":{"x":[{"frame":0,"value":0},{"frame":0.13333333333333333,"value":-213},{"frame":0.2,"value":-163.6},{"frame":0.25,"value":-213}]}}}]

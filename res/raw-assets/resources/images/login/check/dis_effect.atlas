@@ -1,0 +1,48 @@
+
+dis_effect.png
+size: 1162,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojingxian
+  rotate: false
+  xy: 346, 0
+  size: 789, 319
+  orig: 789, 319
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 210
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+jieshidi
+  rotate: true
+  xy: 346, 321
+  size: 1205, 317
+  orig: 1205, 317
+  offset: 0, 0
+  index: -1
+kaishi
+  rotate: true
+  xy: 2, 267
+  size: 1259, 342
+  orig: 1259, 342
+  offset: 0, 0
+  index: -1
+kaishidi
+  rotate: true
+  xy: 665, 350
+  size: 1176, 291
+  orig: 1176, 291
+  offset: 0, 0
+  index: -1
+kaishidi--
+  rotate: true
+  xy: 958, 350
+  size: 1176, 202
+  orig: 1176, 291
+  offset: 0, 0
+  index: -1

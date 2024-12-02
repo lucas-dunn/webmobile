@@ -1,0 +1,118 @@
+
+park_bird1.png
+size: 162,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haio_01
+  rotate: false
+  xy: 120, 26
+  size: 16, 18
+  orig: 32, 32
+  offset: 7, 3
+  index: -1
+haio_02
+  rotate: false
+  xy: 105, 4
+  size: 16, 17
+  orig: 32, 32
+  offset: 7, 4
+  index: -1
+haio_03
+  rotate: false
+  xy: 123, 7
+  size: 16, 17
+  orig: 32, 32
+  offset: 7, 4
+  index: -1
+haio_04
+  rotate: false
+  xy: 141, 13
+  size: 16, 17
+  orig: 32, 32
+  offset: 7, 3
+  index: -1
+haio_05
+  rotate: false
+  xy: 46, 2
+  size: 18, 19
+  orig: 32, 32
+  offset: 6, 1
+  index: -1
+haio_06
+  rotate: true
+  xy: 66, 2
+  size: 19, 18
+  orig: 32, 32
+  offset: 6, 1
+  index: -1
+haio_07
+  rotate: true
+  xy: 102, 23
+  size: 21, 16
+  orig: 32, 32
+  offset: 6, 4
+  index: -1
+haio_08
+  rotate: false
+  xy: 138, 32
+  size: 22, 12
+  orig: 32, 32
+  offset: 6, 10
+  index: -1
+haio_09
+  rotate: false
+  xy: 2, 19
+  size: 21, 25
+  orig: 32, 32
+  offset: 6, 0
+  index: -1
+haio_10
+  rotate: true
+  xy: 45, 23
+  size: 21, 17
+  orig: 32, 32
+  offset: 6, 11
+  index: -1
+haio_11
+  rotate: false
+  xy: 25, 2
+  size: 19, 19
+  orig: 32, 32
+  offset: 7, 11
+  index: -1
+haio_12
+  rotate: false
+  xy: 64, 23
+  size: 17, 21
+  orig: 32, 32
+  offset: 7, 11
+  index: -1
+haio_13
+  rotate: false
+  xy: 83, 23
+  size: 17, 21
+  orig: 32, 32
+  offset: 6, 11
+  index: -1
+haio_14
+  rotate: true
+  xy: 86, 2
+  size: 19, 17
+  orig: 32, 32
+  offset: 6, 12
+  index: -1
+haio_15
+  rotate: false
+  xy: 2, 2
+  size: 21, 15
+  orig: 32, 32
+  offset: 6, 5
+  index: -1
+haio_16
+  rotate: false
+  xy: 25, 23
+  size: 18, 21
+  orig: 32, 32
+  offset: 6, 0
+  index: -1

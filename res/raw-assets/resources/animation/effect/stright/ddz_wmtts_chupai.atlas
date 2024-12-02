@@ -1,0 +1,41 @@
+
+ddz_wmtts_chupai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ddz_XingXing_002
+  rotate: false
+  xy: 362, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card_guang
+  rotate: true
+  xy: 228, 1
+  size: 105, 133
+  orig: 110, 140
+  offset: 2, 4
+  index: -1
+tx_chuiza_wt_05
+  rotate: false
+  xy: 228, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xing_0117
+  rotate: false
+  xy: 357, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yuanhuan_601
+  rotate: false
+  xy: 1, 10
+  size: 226, 225
+  orig: 256, 256
+  offset: 14, 15
+  index: -1

@@ -1,0 +1,41 @@
+
+wincard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0080_guangyun_bj1
+  rotate: false
+  xy: 187, 17
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+108_dhj_bao02
+  rotate: false
+  xy: 1, 255
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang-1
+  rotate: false
+  xy: 1, 1
+  size: 185, 144
+  orig: 185, 144
+  offset: 0, 0
+  index: -1
+guang-2
+  rotate: false
+  xy: 258, 364
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+number_shine_00
+  rotate: false
+  xy: 1, 146
+  size: 336, 108
+  orig: 383, 108
+  offset: 23, 0
+  index: -1

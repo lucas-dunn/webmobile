@@ -1,0 +1,33 @@
+
+koni_me.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f0
+  rotate: false
+  xy: 2, 33
+  size: 96, 65
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 173, 2
+  size: 96, 69
+  orig: 99, 75
+  offset: 3, 0
+  index: -1
+f2
+  rotate: false
+  xy: 100, 33
+  size: 71, 65
+  orig: 99, 75
+  offset: 0, 10
+  index: -1
+f3
+  rotate: false
+  xy: 100, 33
+  size: 71, 65
+  orig: 99, 75
+  offset: 0, 10
+  index: -1

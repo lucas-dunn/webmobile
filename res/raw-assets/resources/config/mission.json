@@ -1,0 +1,8 @@
+[
+    {"current":0,"daily":1,"description":"X Matches","done":false,"game":"All","id":1,"reward":3000,"value":100},
+    {"current":0,"daily":1,"description":"Banker  win X","done":false,"game":"Dizhu","id":10,"reward":2000,"value":30},
+    {"current":0,"daily":1,"description":"Banker win Continue X","done":false,"game":"Dizhu","id":11,"reward":1000,"value":3},
+    {"current":0,"daily":1,"description":"Win X with patner","done":false,"game":"Dizhu","id":12,"reward":1000,"value":50},
+    {"current":0,"daily":1,"description":"Win continue X with patner","done":false,"game":"Dizhu","id":13,"reward":1000,"value":3},
+    
+]

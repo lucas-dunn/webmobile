@@ -1,0 +1,125 @@
+
+park_n_fireworks2.png
+size: 1009,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+park_n_fireworks2
+  rotate: false
+  xy: 2, 309
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1
+park_n_fireworks2_1
+  rotate: false
+  xy: 246, 309
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1
+park_n_fireworkslizi_00
+  rotate: false
+  xy: 2, 5
+  size: 153, 148
+  orig: 227, 218
+  offset: 41, 33
+  index: -1
+park_n_fireworkslizi_01
+  rotate: false
+  xy: 324, 2
+  size: 150, 145
+  orig: 227, 218
+  offset: 41, 36
+  index: -1
+park_n_fireworkslizi_02
+  rotate: true
+  xy: 832, 215
+  size: 156, 175
+  orig: 227, 218
+  offset: 40, 31
+  index: -1
+park_n_fireworkslizi_03
+  rotate: false
+  xy: 832, 373
+  size: 157, 176
+  orig: 227, 218
+  offset: 39, 31
+  index: -1
+park_n_fireworkslizi_04
+  rotate: true
+  xy: 671, 50
+  size: 158, 177
+  orig: 227, 218
+  offset: 39, 30
+  index: -1
+park_n_fireworkslizi_05
+  rotate: false
+  xy: 163, 156
+  size: 159, 151
+  orig: 227, 218
+  offset: 38, 30
+  index: -1
+park_n_fireworkslizi_06
+  rotate: false
+  xy: 490, 370
+  size: 159, 179
+  orig: 227, 218
+  offset: 38, 29
+  index: -1
+park_n_fireworkslizi_07
+  rotate: true
+  xy: 490, 209
+  size: 159, 179
+  orig: 227, 218
+  offset: 38, 29
+  index: -1
+park_n_fireworkslizi_08
+  rotate: true
+  xy: 651, 390
+  size: 159, 179
+  orig: 227, 218
+  offset: 38, 29
+  index: -1
+park_n_fireworkslizi_09
+  rotate: false
+  xy: 2, 155
+  size: 159, 152
+  orig: 227, 218
+  offset: 38, 29
+  index: -1
+park_n_fireworkslizi_10
+  rotate: true
+  xy: 324, 149
+  size: 158, 150
+  orig: 227, 218
+  offset: 38, 31
+  index: -1
+park_n_fireworkslizi_11
+  rotate: false
+  xy: 850, 34
+  size: 156, 179
+  orig: 227, 218
+  offset: 40, 29
+  index: -1
+park_n_fireworkslizi_12
+  rotate: false
+  xy: 671, 210
+  size: 159, 178
+  orig: 227, 218
+  offset: 38, 30
+  index: -1
+park_n_fireworkslizi_13
+  rotate: false
+  xy: 163, 11
+  size: 159, 143
+  orig: 227, 218
+  offset: 38, 30
+  index: -1
+park_n_fireworkslizi_14
+  rotate: true
+  xy: 476, 58
+  size: 149, 146
+  orig: 227, 218
+  offset: 38, 30
+  index: -1

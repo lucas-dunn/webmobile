@@ -1,0 +1,160 @@
+
+fire.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 213, 897
+  size: 171, 92
+  orig: 176, 93
+  offset: 5, 0
+  index: -1
+002
+  rotate: false
+  xy: 571, 848
+  size: 123, 122
+  orig: 216, 123
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 436, 712
+  size: 217, 134
+  orig: 218, 135
+  offset: 1, 0
+  index: -1
+004
+  rotate: false
+  xy: 1, 196
+  size: 215, 145
+  orig: 216, 145
+  offset: 1, 0
+  index: -1
+005
+  rotate: false
+  xy: 436, 370
+  size: 216, 154
+  orig: 216, 155
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 217, 548
+  size: 222, 162
+  orig: 222, 163
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 213, 729
+  size: 221, 166
+  orig: 222, 167
+  offset: 1, 0
+  index: -1
+008
+  rotate: false
+  xy: 218, 193
+  size: 222, 174
+  orig: 222, 175
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 651, 188
+  size: 218, 179
+  orig: 218, 179
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1, 369
+  size: 217, 177
+  orig: 218, 177
+  offset: 1, 0
+  index: -1
+011
+  rotate: false
+  xy: 651, 1
+  size: 216, 185
+  orig: 216, 185
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 218, 1
+  size: 213, 190
+  orig: 214, 191
+  offset: 1, 0
+  index: -1
+013
+  rotate: false
+  xy: 1, 1
+  size: 215, 193
+  orig: 216, 193
+  offset: 1, 0
+  index: -1
+014
+  rotate: false
+  xy: 433, 1
+  size: 216, 186
+  orig: 216, 187
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 1, 548
+  size: 214, 179
+  orig: 214, 179
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 1, 729
+  size: 210, 179
+  orig: 210, 179
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 442, 189
+  size: 206, 179
+  orig: 206, 179
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 220, 369
+  size: 198, 174
+  orig: 198, 175
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 869, 1
+  size: 142, 144
+  orig: 188, 145
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 436, 848
+  size: 133, 138
+  orig: 182, 139
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 441, 526
+  size: 84, 103
+  orig: 166, 103
+  offset: 14, 0
+  index: -1
+022
+  rotate: false
+  xy: 1, 910
+  size: 143, 80
+  orig: 144, 81
+  offset: 1, 0
+  index: -1

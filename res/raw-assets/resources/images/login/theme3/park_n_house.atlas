@@ -1,0 +1,13 @@
+
+park_n_house.png
+size: 187,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+park_n_house
+  rotate: false
+  xy: 2, 2
+  size: 183, 174
+  orig: 183, 174
+  offset: 0, 0
+  index: -1

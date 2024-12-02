@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qietu/2
+  rotate: false
+  xy: 726, 166
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+qietu/2dg1
+  rotate: false
+  xy: 2, 166
+  size: 224, 86
+  orig: 224, 86
+  offset: 0, 0
+  index: -1
+qietu/2dg2
+  rotate: false
+  xy: 2, 0
+  size: 175, 69
+  orig: 175, 69
+  offset: 0, 0
+  index: -1
+qietu/3
+  rotate: false
+  xy: 607, 135
+  size: 117, 117
+  orig: 130, 130
+  offset: 6, 7
+  index: -1
+qietu/3dg1
+  rotate: false
+  xy: 228, 157
+  size: 203, 95
+  orig: 203, 95
+  offset: 0, 0
+  index: -1
+qietu/3dg2
+  rotate: false
+  xy: 433, 178
+  size: 172, 74
+  orig: 172, 74
+  offset: 0, 0
+  index: -1
+qietu/shouzhi
+  rotate: false
+  xy: 814, 180
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+qietu/syg1
+  rotate: false
+  xy: 2, 71
+  size: 206, 93
+  orig: 206, 93
+  offset: 0, 0
+  index: -1
+qietu/syg_2
+  rotate: false
+  xy: 210, 153
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+qietu/syg_3
+  rotate: false
+  xy: 179, 14
+  size: 5, 55
+  orig: 5, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "games": "|13|15|14|32|11|16|17|3",
+  "logintime": 0,
+  "missions": 0,
+  "msg": "success",
+  "player": {
+    "avatarurl": "g_1",
+    "avatarurl_shapp": "",
+    "curgame": "",
+    "diamonds": 0,    
+    "free_bonus_time": 0,
+    "gamestatus": "lobby",
+    "gender": 0,
+    "goldcoins": 0,
+    "id": "168235",
+    "loan_amount": 0,
+    "loan_date": 0,
+    "nickname": "No Login",
+    "playcharacter": 1,
+    "roomid": "",
+    "tms": 0,
+    "username": "No Login",
+    "viplevel": 0,
+    "vipscore": 0,
+    "walletfree": 0,
+    "walletvalued": 0    
+  },
+  "token": "test",
+  "version": 6.4
+}

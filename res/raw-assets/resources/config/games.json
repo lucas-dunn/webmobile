@@ -1,0 +1,36 @@
+{
+    "cups": { "name": "", "idx": 0  , "type":1, "istest":false}, 
+    
+    "chess_0": { "name": "Chess", "idx": 1  , "type":1, "istest":false},
+    "yut_0": { "name": "YutGame", "idx": 13 , "type":1, "istest":false},
+    "archery_0": { "name": "Archery", "idx": 15 , "type":1, "istest":false},
+    "threek_0": { "name": "TripleChess", "idx": 21 , "type":1, "istest":false},
+    "paduk_0": { "name": "Go-9", "idx": 27 , "type":1, "istest":false},
+    "paduk_1": { "name": "Go-13", "idx": 34 , "type":1, "istest":false},
+    "paduk_2": { "name": "Go-19", "idx": 35 , "type":1, "istest":false},
+    "popstar_0": { "name": "Popstar", "idx": 14 , "type":4, "istest":false},
+    "animal_0": { "name": "AnimalChess(1)", "idx": 18 , "type":4, "istest":false},
+    "animal1_0": { "name": "AnimalChess(2)", "idx": 32 , "type":4, "istest":false},
+    "onet_0": { "name": "Onet", "idx": 3 , "type":4, "istest":false},
+    "tetris_0": { "name": "Tetris", "idx": 11 , "type":4, "istest":false},
+    "miner_0": { "name": "Miner", "idx": 16 , "type":4, "istest":false},
+    "basket_0": { "name": "Basketball", "idx": 17 , "type":4, "istest":false},
+    "zuma_0": { "name": "Zuma", "idx": 20 , "type":4, "istest":false},
+    "occello_0": { "name": "Occello", "idx": 28 , "type":4, "istest":true}, 
+    "koni_0": { "name": "Popstar", "idx": 2 , "type":1, "istest":false},
+
+    "ofc_0": { "name": "14s(2)", "idx": 4 , "type":2, "istest":false},
+    "ofc_4": { "name": "14s(3)", "idx": 12 , "type":2, "istest":false},
+    "dizhu_0": { "name": "Dizhu", "idx": 5 , "type":2, "istest":false},
+    "ffa_0": { "name": "44A(4)", "idx": 6 , "type":2, "istest":false},
+    "ffa_2": { "name": "44A(2:2)", "idx": 7 , "type":2, "istest":false},
+    "ffa_7": { "name": "44A(1:1)", "idx": 8 , "type":2, "istest":false},
+    "ffa_6": { "name": "44A(3)", "idx": 33 , "type":2, "istest":false},
+    "five_5": { "name": "FiveCard(3)", "idx": 10 , "type":2, "istest":false},
+    "five_0": { "name": "FiveCard(5)", "idx": 9 , "type":2, "istest":false},
+    "ftk_0": { "name": "5-10-K(4)", "idx": 19 , "type":2, "istest":false},
+    "ftk_22": { "name": "5-10-K(1:1)", "idx": 36 , "type":2, "istest":false},
+    "ftk_23": { "name": "5-10-K(2:2)", "idx": 31 , "type":2, "istest":false},
+    "order_0": { "name": "Orders", "idx": 29 , "type":2, "istest":false}
+
+}

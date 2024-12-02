@@ -1,0 +1,33 @@
+
+koni_rival.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 96, 49
+  size: 84, 65
+  orig: 99, 75
+  offset: 7, 0
+  index: -1
+b1
+  rotate: false
+  xy: 2, 45
+  size: 92, 69
+  orig: 99, 75
+  offset: 3, 0
+  index: -1
+b2
+  rotate: true
+  xy: 2, 2
+  size: 41, 60
+  orig: 99, 75
+  offset: 28, 15
+  index: -1
+b3
+  rotate: true
+  xy: 2, 2
+  size: 41, 60
+  orig: 99, 75
+  offset: 28, 15
+  index: -1

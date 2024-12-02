@@ -1,0 +1,466 @@
+[
+{"KEY":"CHESS_0","KR":"","EN":"Chess","CH":"象棋","RU":"кр шахматы"}
+,
+{"KEY":"KONI_0","KR":"","EN":"Checkers","CH":"跳棋","RU":"звезда кони"}
+,
+{"KEY":"ONET_0","KR":"","EN":"Connet","CH":"连连看","RU":"пара сеть"}
+,
+{"KEY":"OFC_4","KR":"","EN":"14 Cards(3)","CH":"14 对儿(3)","RU":"14 жениться(3)"}
+,
+{"KEY":"OFC_0","KR":"","EN":"Quatorze","CH":"十四行诗","RU":"14 жениться"}
+,
+{"KEY":"DIZHU_0","KR":"","EN":"Landlord","CH":"斗地主","RU":"три"}
+,
+{"KEY":"FFA_0","KR":"","EN":"44A","CH":"44A","RU":"44A(отдельность)"}
+,
+{"KEY":"FFA_2","KR":"","EN":"44A(Team)","CH":"44A(分组)","RU":"44A(группа)"}
+,
+{"KEY":"FFA_6","KR":"","EN":"44A(3)","CH":"44A(3人)","RU":"44A(3 человек)"}
+,
+{"KEY":"FFA_7","KR":"","EN":"44A(2)","CH":"44A(2人)","RU":"44A( двое)"}
+,
+{"KEY":"FIVE_9","KR":"","EN":"5 Card","CH":"五扑克","RU":"пять карточка"}
+,
+{"KEY":"FIVE_0","KR":"","EN":"5 Card","CH":"五扑克(5人)","RU":"пять карточка(5)"}
+,
+{"KEY":"FIVE_5","KR":"","EN":"5 Card(3)","CH":"五扑克(3人)","RU":"пять карточка(3)"}
+,
+{"KEY":"TETRIS_0","KR":"","EN":"Tetris","CH":"俄罗斯方块","RU":"тетрагон"}
+,
+{"KEY":"YUT_0","KR":"","EN":"Yut-game","CH":"尤茨游戏","RU":"игра в ют"}
+,
+{"KEY":"FTK_9","KR":"","EN":"5-10-K","CH":"5-10-K","RU":"5-10-K"}
+,
+{"KEY":"FTK_0","KR":"","EN":"5-10-K","CH":"5-10-K(个别)","RU":"5-10-K(отдельность)"}
+,
+{"KEY":"FTK_23","KR":"","EN":"5-10-K(Team)","CH":"5-10-K(分组)","RU":"5-10-K(группа)"}
+,
+{"KEY":"FTK_22","KR":"","EN":"5-10-K(2)","CH":"5-10-K(2人)","RU":"5-10-K(двое)"}
+,
+{"KEY":"POPSTAR_0","KR":"","EN":"Popstar","CH":"消消星星乐","RU":"струёй звезда"}
+,
+{"KEY":"ARCHERY_0","KR":"","EN":"Archery","CH":"射箭","RU":"стрельба из лука"}
+,
+{"KEY":"MINER_0","KR":"","EN":"Miner","CH":"金矿工","RU":"золото горняк"}
+,
+{"KEY":"BASKET_0","KR":"","EN":"Basket","CH":"篮球","RU":"баскетбол"}
+,
+{"KEY":"ANIMAL_0","KR":"","EN":"Animal-1","CH":"动物棋-1","RU":"животное кони-1"}
+,
+{"KEY":"ANIMAL1_0","KR":"","EN":"Animal-2","CH":"动物棋-2","RU":"животное кони-2"}
+,
+{"KEY":"THREEK_0","KR":"","EN":"Gold Threek","CH":"三群","RU":"три толпа"}
+,
+{"KEY":"PADUK_9","KR":"","EN":"Go","CH":"围棋","RU":"падук"}
+,
+{"KEY":"PADUK_0","KR":"","EN":"Go","CH":"围棋-9","RU":"падук-9"}
+,
+{"KEY":"PADUK_1","KR":"","EN":"Go-13","CH":"围棋-13","RU":"падук-13"}
+,
+{"KEY":"PADUK_2","KR":"","EN":"Go","CH":"围棋-19","RU":"падук-19"}
+,
+{"KEY":"READY_0","KR":"","EN":"Ready","CH":"准备","RU":"старт"}
+,
+{"KEY":"WAIT_0","KR":"","EN":"Waiting","CH":"等待","RU":"ждать"}
+,
+{"KEY":"PASS_0","KR":"","EN":"Pass","CH":"通过","RU":"пас"}
+,
+{"KEY":"DRAW_0","KR":"","EN":"Draw","CH":"打成平局","RU":"розыгрыш"}
+,
+{"KEY":"BACKWARD_0","KR":"","EN":"Backward","CH":"厌烦","RU":"надоедать"}
+,
+{"KEY":"GIVE_UP_0","KR":"","EN":"Give Up","CH":"弃权","RU":"отказывать"}
+,
+{"KEY":"REPLAY_TIME","KR":"","EN":"Replay Time","CH":"再现速度","RU":""}
+,
+{"KEY":"THIS_IS_CHECKMATE","KR":"","EN":"This is checkmate","CH":"将军","RU":""}
+,
+{"KEY":"NO_SIGNAL","KR":"","EN":"No Signal","CH":"","RU":""}
+,
+{"KEY":"SELECT_0","KR":"","EN":"Select","CH":"选","RU":""}
+,
+{"KEY":"SAVE_PASSWORD_0","KR":"","EN":"Save","CH":"保管","RU":""}
+,
+{"KEY":"REGISTER_0","KR":"","EN":"Register","CH":"登录","RU":""}
+,
+{"KEY":"LOGIN_0","KR":"","EN":"Login","CH":"加入","RU":""}
+,
+{"KEY":"PAIR_COUNT","KR":"","EN":"Pair Count","CH":"对碴儿个","RU":""}
+,
+{"KEY":"CHECKING_SERVER_STATUS","KR":"","EN":"Checking Server Status","CH":"在检验服务机状态","RU":""}
+,
+{"KEY":"LOADING_DATA","KR":"","EN":"Loading Data.","CH":"在装载材料","RU":""}
+,
+{"KEY":"MUSIC_0","KR":"","EN":"Music","CH":"背景音","RU":""}
+,
+{"KEY":"SOUND_0","KR":"","EN":"Sound","CH":"效果音","RU":""}
+,
+{"KEY":"GET_CARDS","KR":"","EN":"Get Cards","CH":"保存扑克","RU":""}
+,
+{"KEY":"BOARD_SCORE","KR":"","EN":"Board Score","CH":"板分数","RU":""}
+,
+{"KEY":"CALL_0","KR":"","EN":"Call","CH":"叫","RU":""}
+,
+{"KEY":"PREV_ROUND","KR":"","EN":"Prev Round","CH":"以前局","RU":""}
+,
+{"KEY":"NEXT_ROUND","KR":"","EN":"Next Round","CH":" 以后局","RU":""}
+,
+{"KEY":"SENT_LINES","KR":"","EN":"Sent Lines","CH":"送列个","RU":""}
+,
+{"KEY":"HINT_RESULT","KR":"","EN":"Hint Result","CH":"暗示","RU":""}
+,
+{"KEY":"SHOW_GRID","KR":"","EN":"Show Grid","CH":"栅表","RU":""}
+,
+{"KEY":"IT_IS_POSSIBLE_TO_MOVE_CONTROL_BUTTONS","KR":"","EN":"It is possible to move control buttons","CH":"可以流动纽扣","RU":""}
+,
+{"KEY":"REPOSITION_BUTTONS","KR":"","EN":"Reposition buttons","CH":"重新分配纽扣","RU":""}
+,
+{"KEY":"NEW_RECORD","KR":"","EN":"New Record","CH":"打破记录","RU":""}
+,
+{"KEY":"MEDAL_COUNT","KR":"","EN":"Medal Count","CH":"掌握奖章","RU":""}
+,
+{"KEY":"WIN_COUNT","KR":"","EN":"Win Count","CH":"比赛胜个","RU":""}
+,
+{"KEY":"ROUND_0","KR":"","EN":"Round","CH":"回","RU":""}
+,
+{"KEY":"PEACES","KR":"","EN":"Pcs","CH":"个","RU":""}
+,
+{"KEY":"ARE_YOU_SURE_TO_GIVE_UP","KR":"","EN":"Are you sure to give up.","CH":"半途而废吗","RU":""}
+,
+{"KEY":"LEVEL_0","KR":"","EN":"Level","CH":"级","RU":""}
+,
+{"KEY":"ROOM_0","KR":"","EN":"Room","CH":"间房","RU":""}
+,
+{"KEY":"SCORE_0","KR":"","EN":"Score","CH":"分","RU":""}
+,
+{"KEY":"ARE_YOU_ALLOW_TO_DRAW","KR":"","EN":"Are you allow to draw","CH":"同意打成平局吗?","RU":""}
+,
+{"KEY":"WHEN_USE_BACKWARD_KEY_YOUR_SCORE_WILL_LOSE_ARE_YOU_SURE?","KR":"","EN":"When use backward key, your score will lose. Are you sure?","CH":"厌烦吗?","RU":""}
+,
+{"KEY":"OPOSITE_PLAY_REQUEST_TO_USE_BACKWARD_KEY_YOU_CAND_GET_SCORE_ARE_YOU_AGREE?","KR":"","EN":"Oposite play request to use backward key.  You cand get score , Are you agree?","CH":"同意厌烦吗?","RU":""}
+,
+{"KEY":"MOVE_COUNT","KR":"","EN":"Move Count","CH":"招","RU":""}
+,
+{"KEY":"IT_IS_REPEATLY_MOVE_IT_IS_DRAW_ARE_YOU_SURE?","KR":"","EN":"It is repeatly move. It is draw, Are you sure?","CH":"重复, 成平局吗?","RU":""}
+,
+{"KEY":"IT_IS_A_CHECKMATE_WITH_KING_ARE_YOU_AGREE_TO_DRAW?","KR":"","EN":"It is a checkmate with king , Are you agree to draw?","CH":"宫将军, 成平局吗?","RU":""}
+,
+{"KEY":"ARE_YOU_GIVE_UP","KR":"","EN":"Are you give up?","CH":"弃权吗?","RU":""}
+,
+{"KEY":"YOUR_MONEY_IS_NOT_ENOUGH","KR":"","EN":"Your money is not enough","CH":"不够","RU":""}
+,
+{"KEY":"YOU_WILL_LOSE_ARE_YOU_SURE","KR":"","EN":"You will lose. Are you sure?","CH":"出去","RU":""}
+,
+{"KEY":"IT_CAN_NOT_MOVE","KR":"","EN":"It can not move.","CH":"不可能在","RU":""}
+,
+{"KEY":"OK_0","KR":"","EN":"Ok","CH":"确认","RU":""}
+,
+{"KEY":"CANCEL_0","KR":"","EN":"Cancel","CH":"取消","RU":""}
+,
+{"KEY":"FIND_ROOM","KR":"","EN":"Find Room","CH":"查密码房","RU":""}
+,
+{"KEY":"CREATE_ROOM","KR":"","EN":"Create Room","CH":"创举密码房","RU":""}
+,
+{"KEY":"NO_NETWORK","KR":"","EN":"No network","CH":"","RU":""}
+,
+{"KEY":"DAY_LOGIN_BONUS","KR":"","EN":"Day login bonus","CH":"","RU":""}
+,
+{"KEY":"ERROR_IN_SERVER_RESPONSE","KR":"","EN":"Error in Server Response","CH":"","RU":""}
+,
+{"KEY":"ERROR_IN_SERVER_CERTIFICATION","KR":"","EN":"Error in server certification","CH":"","RU":""}
+,
+{"KEY":"YOU_ALREADY_GET_LOGIN_BONUS","KR":"","EN":"You already get login bonus","CH":"","RU":""}
+,
+{"KEY":"NO_LOGIN_BONUS","KR":"","EN":"no Login bonus","CH":"","RU":""}
+,
+{"KEY":"ERROR_IN_PROCESSING","KR":"","EN":"Error occurred","CH":"","RU":""}
+,
+{"KEY":"CARD_CAN'T_NOT_SELECT_ONE_MUSTER_CARD","KR":"","EN":"Card 2 can't not select one muster card.","CH":"","RU":""}
+,
+{"KEY":"SELECT_YOUR_PARTNER","KR":"","EN":"Select your partner.","CH":"","RU":""}
+,
+{"KEY":"SELECT_MUSTER_CARD","KR":"","EN":"Select muster card.","CH":"","RU":""}
+,
+{"KEY":"KICK_0","KR":"","EN":"kick","CH":"踢","RU":""}
+,
+{"KEY":"KOGI_0","KR":"","EN":"kogi","CH":"捏皱","RU":""}
+,
+{"KEY":"COMPUTER_PLAYER","KR":"","EN":"Computer Player","CH":"","RU":""}
+,
+{"KEY":"EXCHANGING_0","KR":"","EN":"Exchanging","CH":"在替换","RU":""}
+,
+{"KEY":"THINGING_0","KR":"","EN":"Thinging","CH":"在想法","RU":""}
+,
+{"KEY":"MASTER_CARD","KR":"","EN":"M-Card","CH":"扑克","RU":""}
+,
+{"KEY":"CHANG_0","KR":"","EN":"Chang","CH":"枪","RU":""}
+,
+{"KEY":"SPADE_A","KR":"","EN":"Spade A","CH":"参谋长","RU":""}
+,
+{"KEY":"JOKER_0","KR":"","EN":"Joker","CH":"小王","RU":""}
+,
+{"KEY":"JOKER_0","KR":"","EN":"Joker","CH":"大王","RU":""}
+,
+{"KEY":"GIVE_UP_1","KR":"","EN":"Give Up","CH":"放弃","RU":""}
+,
+{"KEY":"THE_MATCH_IS_FINISHED","KR":"","EN":"The match is finished","CH":"打","RU":""}
+,
+{"KEY":"SELECT_A_CARD_TO_CHANGE","KR":"","EN":"Select a card to change","CH":"","RU":""}
+,
+{"KEY":"SELECT_BUYING_LEVEL","KR":"","EN":"Select buying level","CH":"","RU":""}
+,
+{"KEY":"FIRST_MONEY","KR":"","EN":"First Money","CH":"先钱","RU":""}
+,
+{"KEY":"OM_CARD","KR":"","EN":"OM Card","CH":"本主","RU":""}
+,
+{"KEY":"THERE_IS_NO_RESULT","KR":"","EN":"There is no result.","CH":"没有搜查结","RU":""}
+,
+{"KEY":"ERROR_RESPONSE_TIME_0","KR":"","EN":"Response time is so long . Try agin please.","CH":"","RU":""}
+,
+{"KEY":"ERROR_RESPONSE_TIME_1","KR":"","EN":"Response time is so long . Try agin please.","CH":"","RU":""}
+,
+{"KEY":"LOGOUT_0","KR":"","EN":"Logout","CH":"退出","RU":""}
+,
+{"KEY":"WAITING_0","KR":"","EN":"waiting","CH":"等等","RU":""}
+,
+{"KEY":"FIND_SERVER_SIGNAL","KR":"","EN":"Find server signal","CH":"","RU":""}
+,
+{"KEY":"PASS_COUNT","KR":"","EN":"Pass count","CH":"通过个","RU":""}
+,
+{"KEY":"NO_PASS_COUNT","KR":"","EN":"No pass count","CH":"可通过个","RU":""}
+,
+{"KEY":"PIG_0","KR":"","EN":"Pig","CH":"猪","RU":""}
+,
+{"KEY":"DIZHU_0","KR":"","EN":"Dizhu","CH":"地主","RU":""}
+,
+{"KEY":"MASTER_0","KR":"","EN":"Master","CH":"主","RU":""}
+,
+{"KEY":"TEAM_0","KR":"","EN":"Team","CH":"边","RU":""}
+,
+{"KEY":"RECORD_0","KR":"","EN":"Record","CH":"记录本","RU":""}
+,
+{"KEY":"FINISH_EXCHANGING","KR":"","EN":"Finish exchanging","CH":"完成交换","RU":""}
+,
+{"KEY":"EXCHANGE_0","KR":"","EN":"Exchange","CH":"交换","RU":""}
+,
+{"KEY":"BUY_0","KR":"","EN":"Buy","CH":"买","RU":""}
+,
+{"KEY":"PARTNER_0","KR":"","EN":"Partner","CH":"边","RU":""}
+,
+{"KEY":"SELECT_MASTER_CARD","KR":"","EN":"Select Master Card","CH":"选主扑克","RU":""}
+,
+{"KEY":"SELECT_PATNER_CARD","KR":"","EN":"Select Patner Card","CH":"选边扑克","RU":""}
+,
+{"KEY":"GET_BONUS","KR":"","EN":"Get Bonus","CH":"择礼物","RU":""}
+,
+{"KEY":"JOIN_0","KR":"","EN":"Join","CH":"参加","RU":""}
+,
+{"KEY":"DOBULE_SCORE","KR":"","EN":"Dobule Score","CH":"","RU":""}
+,
+{"KEY":"NEWS_0","KR":"","EN":"News","CH":"消息","RU":""}
+,
+{"KEY":"THIS_IS_NO_SUITABLE_CARDS_PAIR_0","KR":"","EN":"This is no suitable cards pair.","CH":"","RU":""}
+,
+{"KEY":"THIS_IS_NO_SUITABLE_CARDS_PAIR_1","KR":"","EN":"This is no suitable cards pair.","CH":"","RU":""}
+,
+{"KEY":"LEFT_CARDS","KR":"","EN":"Left cards","CH":"留扑克","RU":""}
+,
+{"KEY":"OUT_CARDS","KR":"","EN":"Out cards","CH":"出扑克","RU":""}
+,
+{"KEY":"LEVEL_LEVEL","KR":"","EN":"Level 3","CH":"上级","RU":""}
+,
+{"KEY":"LEVEL_LEVEL","KR":"","EN":"Level 1","CH":"初级","RU":""}
+,
+{"KEY":"LEVEL_LEVEL","KR":"","EN":"Level 2","CH":"中级","RU":""}
+,
+{"KEY":"LEVEL_LEVEL","KR":"","EN":"Level 4","CH":"高级","RU":""}
+,
+{"KEY":"IN_CHA","KR":"","EN":"In Cha","CH":"内车","RU":""}
+,
+{"KEY":"RIGHT_SANG","KR":"","EN":"Right Sang","CH":"右象","RU":""}
+,
+{"KEY":"CHANGE_0","KR":"","EN":"Change","CH":" 交换","RU":""}
+,
+{"KEY":"CLOSE_0","KR":"","EN":"Close","CH":"完成","RU":""}
+,
+{"KEY":"IN_SANG","KR":"","EN":"In Sang","CH":"内象","RU":""}
+,
+{"KEY":"IN_MA","KR":"","EN":"In Ma","CH":"内马","RU":""}
+,
+{"KEY":"LEFT_SANG","KR":"","EN":"Left Sang","CH":"左象","RU":""}
+,
+{"KEY":"ALONE_0","KR":"","EN":"Alone","CH":"独自","RU":""}
+,
+{"KEY":"FIRST_MAX_CARDS","KR":"","EN":"First Max Cards","CH":"先大扑","RU":""}
+,
+{"KEY":"EMOTICON_0","KR":"","EN":"Emoticon","CH":"评价","RU":""}
+,
+{"KEY":"FIRST_0","KR":"","EN":"1th","CH":"一等","RU":""}
+,
+{"KEY":"SECOND_0","KR":"","EN":"2th","CH":"二等","RU":""}
+,
+{"KEY":"THIRD_0","KR":"","EN":"3th","CH":"三等","RU":""}
+,
+{"KEY":"DRAW_0","KR":"","EN":"Draw","CH":"打成平局","RU":""}
+,
+{"KEY":"PUNISHED_0","KR":"","EN":"punished","CH":"发落","RU":""}
+,
+{"KEY":"LOSE_0","KR":"","EN":"Lose","CH":"失败","RU":""}
+,
+{"KEY":"WIN_0","KR":"","EN":"Win","CH":"胜利","RU":""}
+,
+{"KEY":"CONNECTING_SERVER_0","KR":"","EN":"Connecting","CH":"","RU":""}
+,
+{"KEY":"REWARD_500","KR":"","EN":"reward 500","CH":"","RU":""}
+,
+{"KEY":"JOINING_0","KR":"","EN":"Joining :","CH":"","RU":""}
+,
+{"KEY":"PLAYING_0","KR":"","EN":"Playing :","CH":"","RU":""}
+,
+{"KEY":"TRAINING_ROOM_0","KR":"","EN":"Training Room","CH":"","RU":""}
+,
+{"KEY":"TRAINING_ROOM_1","KR":"","EN":"Trainning","CH":"训练","RU":""}
+,
+{"KEY":"WATCH_0","KR":"","EN":"Watching","CH":"观看","RU":""}
+,
+{"KEY":"GAME_HISTORY_0","KR":"","EN":"Game History","CH":"","RU":""}
+,
+{"KEY":"SETTING_0","KR":"","EN":"Setting","CH":"","RU":""}
+,
+{"KEY":"HELP_0","KR":"","EN":"Help","CH":"","RU":""}
+,
+{"KEY":"PRIZE_HISTORY_0","KR":"","EN":"Prize History","CH":"","RU":""}
+,
+{"KEY":"MISSION_0","KR":"","EN":"Mission","CH":"","RU":""}
+,
+{"KEY":"RANK_0","KR":"","EN":"Rank","CH":"","RU":""}
+,
+{"KEY":"FEEDBACK_0","KR":"","EN":"FeedBack","CH":"","RU":""}
+,
+{"KEY":"TOP_RECORD_0","KR":"","EN":"Top Record","CH":"","RU":""}
+,
+{"KEY":"DAILY_0","KR":"","EN":"Daily","CH":"","RU":""}
+,
+{"KEY":"WEEKLY_0","KR":"","EN":"Weekly","CH":"","RU":""}
+,
+{"KEY":"MONTHLY_0","KR":"","EN":"Monthly","CH":"","RU":""}
+,
+{"KEY":"NO_DATA_0","KR":"","EN":"No data.","CH":"","RU":""}
+,
+{"KEY":"PREPARED_0","KR":"","EN":"prepared","CH":"","RU":""}
+,
+{"KEY":"PAID_0","KR":"","EN":"paid","CH":"","RU":""}
+,
+{"KEY":"FREE_0","KR":"","EN":"free","CH":"","RU":""}
+,
+{"KEY":"PAID_POINT_0","KR":"","EN":"paid point","CH":"","RU":""}
+,
+{"KEY":"FREE_POINT_0","KR":"","EN":"free point","CH":"","RU":""}
+,
+{"KEY":"GEM_0","KR":"","EN":"gem","CH":"","RU":""}
+,
+{"KEY":"STAR_0","KR":"","EN":"star","CH":"","RU":""}
+,
+{"KEY":"STOCK_0","KR":"","EN":"stock","CH":"","RU":""}
+,
+{"KEY":"CHECKING_VERSION_0","KR":"","EN":"Checking version.","CH":"","RU":""}
+,
+{"KEY":"UPDATING_DATA_0","KR":"","EN":"Updating data.","CH":"","RU":""}
+,
+{"KEY":"UPDATE_COMPLETE_0","KR":"","EN":"Updating complete","CH":"","RU":""}
+,
+{"KEY":"CONNECTING_FAILED_0","KR":"","EN":"Connecting failed","CH":"","RU":""}
+,
+{"KEY":"CHECKING_UPDATING_0","KR":"","EN":"Checking for updating.","CH":"","RU":""}
+,
+{"KEY":"PREPARING_UPDATING_0","KR":"","EN":"Preparing for updating.","CH":"","RU":""}
+,
+{"KEY":"UPDATING_FAILED_0","KR":"","EN":"Updating failed","CH":"","RU":""}
+,
+{"KEY":"LOAD_COMPLETE_0","KR":"","EN":"Loading complete","CH":"","RU":""}
+,
+{"KEY":"RESTART_PROGRAM_0","KR":"","EN":"You must restart program.","CH":"","RU":""}
+,
+{"KEY":"SCORE_0","KR":"","EN":"score","CH":"","RU":""}
+,
+{"KEY":"AI_PLAYER_0","KR":"","EN":"AI Player","CH":"","RU":""}
+,
+{"KEY":"NO_CONNECTION_0","KR":"","EN":"No connection","CH":"","RU":""}
+,
+{"KEY":"DOM_0","KR":"","EN":"dom","CH":"","RU":""}
+,
+{"KEY":"CROSS_0","KR":"","EN":"cross","CH":"","RU":""}
+,
+{"KEY":"MYRANK_0","KR":"","EN":"My rank","CH":"","RU":""}
+,
+{"KEY":"UNKNOWN_0","KR":"","EN":"unknown","CH":"","RU":""}
+,
+{"KEY":"NUMBER_MATCHES_0","KR":"","EN":"number of matches","CH":"","RU":""}
+,
+{"KEY":"NUMBER_SUCCESSIVE_VICTORY_0","KR":"","EN":"number of successive victory","CH":"","RU":""}
+,
+{"KEY":"INFO_0","KR":"","EN":"Info","CH":"","RU":""}
+,
+{"KEY":"GAME_RULE_0","KR":"","EN":"Rule","CH":"","RU":""}
+,
+{"KEY":"PLAYERS_0","KR":"","EN":"player(s)","CH":"","RU":""}
+,
+{"KEY":"NO_RESULT_0","KR":"","EN":"No result","CH":"","RU":""}
+,
+{"KEY":"ALL_RANK_0","KR":"","EN":"All","CH":"","RU":""}
+,
+{"KEY":"RANK_TH_0","KR":"","EN":"th","CH":"","RU":""}
+,
+{"KEY":"USER_0","KR":"","EN":"user","CH":"","RU":""}
+,
+{"KEY":"CONTENT_0","KR":"","EN":"content","CH":"","RU":""}
+,
+{"KEY":"ERROR_CODE_0","KR":"","EN":"Error code","CH":"","RU":""}
+,
+{"KEY":"PURCHASE_0","KR":"","EN":"purchase","CH":"","RU":""}
+,
+{"KEY":"TODAY_MISSIOM_0","KR":"","EN":"today mission","CH":"","RU":""}
+,
+{"KEY":"ALL_MISSION_0","KR":"","EN":"all missioins","CH":"","RU":""}
+,
+{"KEY":"COMPLETE_MISSION_0","KR":"","EN":"complete mission","CH":"","RU":""}
+,
+{"KEY":"LABEL_CALL_2X","KR":"","EN":"2×","CH":"2×","RU":""}
+,
+{"KEY":"LABEL_CALL_4X","KR":"","EN":" 4×","CH":"4×","RU":""}
+,
+{"KEY":"LABEL_CALL_8X","KR":"","EN":"8×","CH":"8×","RU":""}
+,
+{"KEY":"LABEL_CALL_16X","KR":"","EN":"16×","CH":"16×","RU":""}
+,
+{"KEY":"LABEL_CALL_PIG","KR":"","EN":"pig","CH":"","RU":""}
+,
+{"KEY":"FIRST_PLAYING_0","KR":"","EN":"first play","CH":"","RU":""}
+,
+{"KEY":"OFFLINE_GAME_0","KR":"","EN":"offline game","CH":"","RU":""}
+,
+{"KEY":"USER_NAME_0","KR":"","EN":"user id","CH":"","RU":""}
+,
+{"KEY":"URGENT_PURCHASE_0","KR":"","EN":"urgent purchase","CH":"","RU":""}
+,
+{"KEY":"NOTIFICATION_0","KR":"","EN":"Notification","CH":"","RU":""}
+,
+{"KEY":"INDIVIDUAL_MESSAGE_0","KR":"","EN":"Individual","CH":"","RU":""}
+,
+{"KEY":"GAME_REPORT_0","KR":"","EN":"Report","CH":"","RU":""}
+,
+{"KEY":"ALL_CLEAR_0","KR":"","EN":"Clear all","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_PUT_0","KR":"","EN":"Put a piece in a empty hole.","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_PUT_1","KR":"","EN":"It's time for opponent to put a piece.","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_CATCH_0","KR":"","EN":"Catch opponent's piece.","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_CATCH_1","KR":"","EN":"It's time for opponent to catch a piece.","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_MOVE_0","KR":"","EN":"Move a piece to a empty hole.","CH":"","RU":""}
+,
+{"KEY":"THREEK_COMMAND_MOVE_1","KR":"","EN":"It's time for opponent to move a piece.","CH":"","RU":""}
+
+]

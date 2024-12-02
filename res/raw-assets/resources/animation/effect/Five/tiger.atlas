@@ -1,0 +1,160 @@
+
+tiger.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+father001
+  rotate: false
+  xy: 599, 369
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+father002
+  rotate: false
+  xy: 466, 369
+  size: 65, 136
+  orig: 65, 136
+  offset: 0, 0
+  index: -1
+father003
+  rotate: false
+  xy: 650, 130
+  size: 67, 127
+  orig: 67, 127
+  offset: 0, 0
+  index: -1
+father004
+  rotate: false
+  xy: 665, 373
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+father005
+  rotate: false
+  xy: 377, 363
+  size: 87, 133
+  orig: 87, 133
+  offset: 0, 0
+  index: -1
+father006
+  rotate: false
+  xy: 267, 351
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+father007
+  rotate: false
+  xy: 267, 176
+  size: 132, 173
+  orig: 132, 173
+  offset: 0, 0
+  index: -1
+father008
+  rotate: false
+  xy: 137, 183
+  size: 128, 180
+  orig: 128, 180
+  offset: 0, 0
+  index: -1
+father009
+  rotate: false
+  xy: 530, 1
+  size: 118, 182
+  orig: 118, 182
+  offset: 0, 0
+  index: -1
+father010
+  rotate: false
+  xy: 401, 1
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+father011
+  rotate: false
+  xy: 1, 176
+  size: 134, 173
+  orig: 134, 173
+  offset: 0, 0
+  index: -1
+mother001
+  rotate: false
+  xy: 533, 369
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+mother002
+  rotate: false
+  xy: 200, 365
+  size: 65, 136
+  orig: 65, 136
+  offset: 0, 0
+  index: -1
+mother003
+  rotate: false
+  xy: 650, 1
+  size: 67, 127
+  orig: 67, 127
+  offset: 0, 0
+  index: -1
+mother004
+  rotate: false
+  xy: 665, 259
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+mother005
+  rotate: false
+  xy: 111, 365
+  size: 87, 133
+  orig: 87, 133
+  offset: 0, 0
+  index: -1
+mother006
+  rotate: false
+  xy: 1, 351
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+mother007
+  rotate: false
+  xy: 267, 1
+  size: 132, 173
+  orig: 132, 173
+  offset: 0, 0
+  index: -1
+mother008
+  rotate: false
+  xy: 137, 1
+  size: 128, 180
+  orig: 128, 180
+  offset: 0, 0
+  index: -1
+mother009
+  rotate: false
+  xy: 530, 185
+  size: 118, 182
+  orig: 118, 182
+  offset: 0, 0
+  index: -1
+mother010
+  rotate: false
+  xy: 401, 182
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+mother011
+  rotate: false
+  xy: 1, 1
+  size: 134, 173
+  orig: 134, 173
+  offset: 0, 0
+  index: -1
